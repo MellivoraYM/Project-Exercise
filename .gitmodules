@@ -1,0 +1,3 @@
+[submodule "stark101"]
+	path = stark101
+	url = https://github.com/starkware-industries/stark101.git
